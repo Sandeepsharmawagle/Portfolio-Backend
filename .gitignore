@@ -1,0 +1,10 @@
+node_modules
+.env
+.DS_Store
+*.log
+
+# Deployment files
+RENDER_DEPLOYMENT.md
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_STATUS.md
+RENDER_DEPLOYPMENT.md
